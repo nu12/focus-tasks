@@ -1,5 +1,7 @@
 {
   "name": "focus-tasks",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
